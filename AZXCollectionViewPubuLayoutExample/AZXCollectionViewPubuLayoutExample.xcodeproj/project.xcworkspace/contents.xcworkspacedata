@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:AZXCollectionViewPubuLayout.h AZXCollectionViewPubuLayoutExample.xcodeproj">
+      location = "self:AZXCollectionViewPubuLayoutExample.xcodeproj">
    </FileRef>
 </Workspace>

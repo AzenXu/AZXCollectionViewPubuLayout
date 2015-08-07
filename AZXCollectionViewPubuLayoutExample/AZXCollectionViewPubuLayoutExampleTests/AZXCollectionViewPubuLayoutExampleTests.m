@@ -1,6 +1,6 @@
 //
-//  AZXCollectionViewPubuLayout_h_AZXCollectionViewPubuLayoutExampleTests.m
-//  AZXCollectionViewPubuLayout.h AZXCollectionViewPubuLayoutExampleTests
+//  AZXCollectionViewPubuLayoutExampleTests.m
+//  AZXCollectionViewPubuLayoutExampleTests
 //
 //  Created by Azen.Xu on 15/8/7.
 //  Copyright (c) 2015年 Azen.Xu. All rights reserved.
@@ -9,11 +9,11 @@
 #import <UIKit/UIKit.h>
 #import <XCTest/XCTest.h>
 
-@interface AZXCollectionViewPubuLayout_h_AZXCollectionViewPubuLayoutExampleTests : XCTestCase
+@interface AZXCollectionViewPubuLayoutExampleTests : XCTestCase
 
 @end
 
-@implementation AZXCollectionViewPubuLayout_h_AZXCollectionViewPubuLayoutExampleTests
+@implementation AZXCollectionViewPubuLayoutExampleTests
 
 - (void)setUp {
     [super setUp];
